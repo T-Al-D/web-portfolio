@@ -1,7 +1,7 @@
 {
+	"homepage": "https://github.com/T-Al-D/web-portfolio",
 	"name": "portfolio-frontend",
 	"version": "0.1.0",
-	"homepage": "https://github.com/T-Al-D/web-portfolio",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
