@@ -1,6 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-This is a portfolio-webpage made with react and typescript.
+## NOTES
+
+-   This is a portfolio-webpage made with react and typescript.
+-   link to webpage: https://t-al-d.github.io/web-portfolio/
+-   help to deploy from:
+    -   https://github.com/gregrickaby/nextjs-github-pages and
+    -   https://github.com/gitname/react-gh-pages
 
 ## Getting Started
 
